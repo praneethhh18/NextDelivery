@@ -1,0 +1,89 @@
+.menu-button-container {
+    background-color: black;
+    padding: 10px;
+    display: inline-block;
+  }
+  
+  .menu-button {
+    background-color: #3498db;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none; /* Remove underline for links */
+    transition: background-color 0.3s;
+  }
+  
+  .menu-button:hover {
+    background-color: #2980b9;
+  }
+  
+
+.container{
+    margin-bottom: 100px;
+}
+
+
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(180deg, rgb(53, 53, 53),black);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.see-all{
+    color: orange;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card-title, .card-text,.card-footer, .price{
+    text-align: center;
+}
+.underline {
+    
+    border-bottom: 5px solid orange;
+    }
+    h4{
+        text-align: center;
+    }
+    .cat-img{
+        width: 100%;
+        border: none;
+        border-radius: 10px;
+        box-shadow: lightgray 5px 5px 5px;
+        padding: 20px;
+        margin: 40px;
+    }
+    .pale{
+        width: 100%;
+    }
+    .cat-img1{
+        width: 70%;
+        border: none;
+        border-radius: 10px;
+        box-shadow: lightgray 5px 5px 5px;
+        padding: 30px;
+        margin-bottom: 40px;
+    }
+    footer{
+        font-size: 12px;
+        text-align: center;
+    }
+        
+    
+    
